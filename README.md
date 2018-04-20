@@ -5,7 +5,7 @@ Slack transport for winston
 ## Install
 
 ```
-npm install --save winston winston-slack-advanced
+npm install --save winston-slack-advanced
 ```
 
 ## Usage

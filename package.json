@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/yogeshyadav108098/winston-slack-advanced/issues"
   },
-  "homepage": "https://github.com/yogeshyadav108098/winston-slack-advanced#readme"
+  "homepage": "https://github.com/yogeshyadav108098/winston-slack-advanced#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "uuid": "^3.2.1",
+    "winston": "^2.4.1"
+  }
 }
