@@ -1,0 +1,23 @@
+{
+  "name": "winston-slack-advanced",
+  "version": "1.0.0",
+  "description": "winston slack chat integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshyadav108098/winston-slack-advanced.git"
+  },
+  "keywords": [
+    "winston",
+    "slack"
+  ],
+  "author": "Yogesh Yadav",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yogeshyadav108098/winston-slack-advanced/issues"
+  },
+  "homepage": "https://github.com/yogeshyadav108098/winston-slack-advanced#readme"
+}
