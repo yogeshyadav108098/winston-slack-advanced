@@ -62,7 +62,7 @@ class Slack {
         let payload = {
             channel: this.channel,
             text: '[' + level + ']' + ' ### ' + (this.attachmentTitles[level] || this.attachmentTitles['info']),
-            username: this.username + Uuid.v4().slice(0, 8),
+            username: this.username + ' - ' + Uuid.v4().slice(0, 8),
             attachments: [{
                 text: message,
                 color: this.colors[level] || this.colors['info']

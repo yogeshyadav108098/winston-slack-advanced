@@ -15,7 +15,7 @@
     "slack"
   ],
   "author": "Yogesh Yadav",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/yogeshyadav108098/winston-slack-advanced/issues"
   },
