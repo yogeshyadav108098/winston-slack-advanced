@@ -1,6 +1,6 @@
 {
   "name": "winston-slack-advanced",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "winston slack chat integration",
   "main": "index.js",
   "scripts": {
